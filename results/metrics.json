@@ -1,0 +1,161 @@
+{
+  "corpus_id": "unesco-ai-competency-frameworks-vi-2025",
+  "model": "google/embeddinggemma-2",
+  "model_revision": "f9972ac22e696a105c482202646979e33e4b5a1e",
+  "dimensions": 768,
+  "model_device": "cuda",
+  "model_dtype": "torch.bfloat16",
+  "packages": {
+    "sentence-transformers": "6.3.0",
+    "transformers": "5.20.2",
+    "torch": "2.14.1+cu130",
+    "psycopg": "3.3.8",
+    "pypdf": "6.21.4"
+  },
+  "vector_store": "PostgreSQL + pgvector; exact cosine search",
+  "chunking": {
+    "A": {
+      "size": 500,
+      "overlap": 50
+    },
+    "B": {
+      "paragraph_max": 800
+    },
+    "C": {
+      "same_chunks_as": "B",
+      "filter": "audience only when supplied"
+    }
+  },
+  "chunk_counts": {
+    "A": 794,
+    "B": 614,
+    "C": 614
+  },
+  "chunk_character_stats": {
+    "A": {
+      "count": 794,
+      "total_characters": 366054,
+      "min_characters": 54,
+      "median_characters": 500.0,
+      "mean_characters": 461.0,
+      "p90_characters": 500,
+      "max_characters": 500
+    },
+    "B": {
+      "count": 614,
+      "total_characters": 332501,
+      "min_characters": 26,
+      "median_characters": 590.0,
+      "mean_characters": 541.5,
+      "p90_characters": 761,
+      "max_characters": 800
+    },
+    "C": {
+      "count": 614,
+      "total_characters": 332501,
+      "min_characters": 26,
+      "median_characters": 590.0,
+      "mean_characters": 541.5,
+      "p90_characters": 761,
+      "max_characters": 800
+    }
+  },
+  "chunk_token_stats": {
+    "A": {
+      "count": 794,
+      "total_model_input_tokens": 106658,
+      "median_model_input_tokens": 142.0,
+      "max_model_input_tokens": 199
+    },
+    "B": {
+      "count": 614,
+      "total_model_input_tokens": 94507,
+      "median_model_input_tokens": 168.0,
+      "max_model_input_tokens": 265
+    },
+    "C": {
+      "count": 614,
+      "total_model_input_tokens": 94507,
+      "median_model_input_tokens": 168.0,
+      "max_model_input_tokens": 265
+    }
+  },
+  "ingest_seconds": {
+    "A": 12.112,
+    "B": 7.808,
+    "C": 0.0
+  },
+  "embedding_api_cost": 0,
+  "selection_rule": "dev Evidence Hit@3, then dev Hit@1, then ingest time",
+  "selected_on_dev": "B",
+  "metrics": {
+    "A:dev": {
+      "strategy": "A",
+      "split": "dev",
+      "questions": 15,
+      "hit_at_1": 1,
+      "evidence_hit_at_3": 2
+    },
+    "B:dev": {
+      "strategy": "B",
+      "split": "dev",
+      "questions": 15,
+      "hit_at_1": 2,
+      "evidence_hit_at_3": 5
+    },
+    "C:dev": {
+      "strategy": "C",
+      "split": "dev",
+      "questions": 15,
+      "hit_at_1": 2,
+      "evidence_hit_at_3": 5
+    },
+    "A:test": {
+      "strategy": "A",
+      "split": "test",
+      "questions": 5,
+      "hit_at_1": 1,
+      "evidence_hit_at_3": 2
+    },
+    "B:test": {
+      "strategy": "B",
+      "split": "test",
+      "questions": 5,
+      "hit_at_1": 2,
+      "evidence_hit_at_3": 3
+    },
+    "C:test": {
+      "strategy": "C",
+      "split": "test",
+      "questions": 5,
+      "hit_at_1": 2,
+      "evidence_hit_at_3": 3
+    }
+  },
+  "filter_compliance": {
+    "A:dev": {
+      "compliant": 2,
+      "questions": 2
+    },
+    "B:dev": {
+      "compliant": 2,
+      "questions": 2
+    },
+    "C:dev": {
+      "compliant": 2,
+      "questions": 2
+    },
+    "A:test": {
+      "compliant": 1,
+      "questions": 1
+    },
+    "B:test": {
+      "compliant": 1,
+      "questions": 1
+    },
+    "C:test": {
+      "compliant": 1,
+      "questions": 1
+    }
+  }
+}

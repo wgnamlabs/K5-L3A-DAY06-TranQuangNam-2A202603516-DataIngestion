@@ -1,0 +1,65 @@
+{
+  "type": "post_hoc_dev_diagnostic",
+  "benchmark_unchanged": true,
+  "used_for_selection_or_test_metrics": false,
+  "question_id": "q05",
+  "question": "Trong khía cạnh tư duy lấy con người làm trung tâm của AI CFT, điều gì phải ở trọng tâm của AI trong giáo dục?",
+  "filter_source": "Diagnostic user context supplied before retrieval: đang xem Khung năng lực AI cho giáo viên (AI CFT). This context is not inferred from gold or retrieval results.",
+  "filter": {
+    "audience": "teachers"
+  },
+  "unfiltered_B_top3": [
+    {
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p025:paragraph:b008b5d58a931c15222d",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "physical_page": 25,
+      "audience": "teachers",
+      "score": 0.782497596616764
+    },
+    {
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p019:paragraph:b96cb41686ad78df2e28",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "physical_page": 19,
+      "audience": "teachers",
+      "score": 0.7708820627464275
+    },
+    {
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p074:paragraph:8e5010e82923487fac24",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "physical_page": 74,
+      "audience": "students",
+      "score": 0.7646394528356071
+    }
+  ],
+  "filtered_B_top3": [
+    {
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p025:paragraph:b008b5d58a931c15222d",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "physical_page": 25,
+      "audience": "teachers",
+      "score": 0.782497596616764
+    },
+    {
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p019:paragraph:b96cb41686ad78df2e28",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "physical_page": 19,
+      "audience": "teachers",
+      "score": 0.7708820627464275
+    },
+    {
+      "rank": 3,
+      "chunk_id": "unesco-ai-cft-vi-2025:p020:paragraph:6dc5cd0effaa9bda66ed",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "physical_page": 20,
+      "audience": "teachers",
+      "score": 0.7510361056212823
+    }
+  ],
+  "unfiltered_wrong_audience_count": 1,
+  "filtered_wrong_audience_count": 0
+}

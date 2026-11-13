@@ -1,0 +1,830 @@
+{
+  "method": "Deterministic audit: SHA-256-verified PDFs are re-extracted; source, page, audience, provenance and exact chunk span are compared with each test top-3 trace record.",
+  "limitations": "This deterministic check verifies metadata and trace provenance; the case-by-case coherence and grounding judgments are recorded separately in manual_audit.json.",
+  "summary": {
+    "A": {
+      "valid": 15,
+      "total": 15
+    },
+    "B": {
+      "valid": 15,
+      "total": 15
+    },
+    "C": {
+      "valid": 15,
+      "total": 15
+    }
+  },
+  "records": [
+    {
+      "question_id": "q09",
+      "strategy": "A",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p018:fixed:ef644638df64e45a6c79",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 18,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "A",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p021:fixed:bb9e088324657a882c5d",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 21,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "A",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cft-vi-2025:p046:fixed:a5316cdd502cf878ed2f",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 46,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "B",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p033:paragraph:7f2607fe50090d3db6a8",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 33,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "B",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p042:paragraph:b2029528f5b958407a8b",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 42,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "B",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cft-vi-2025:p026:paragraph:71055628d4c5afba19b2",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 26,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "C",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p033:paragraph:7f2607fe50090d3db6a8",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 33,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "C",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p042:paragraph:b2029528f5b958407a8b",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 42,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q09",
+      "strategy": "C",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cft-vi-2025:p026:paragraph:71055628d4c5afba19b2",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 26,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "A",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:fixed:682429aea51f9f0c4e27",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "A",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p016:fixed:663fa5c2e6fb96588d99",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 16,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "A",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:fixed:0369393a988b320e3ada",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "B",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:08555b4bc8fe9a5ac311",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "B",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:ac6ec76b3e473c75acdc",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "B",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:e5bf4892cd8eac6fb8f5",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "C",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:08555b4bc8fe9a5ac311",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "C",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:ac6ec76b3e473c75acdc",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q10",
+      "strategy": "C",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:e5bf4892cd8eac6fb8f5",
+      "source": "data/corpus/391104eng_Vi-03022025.pdf",
+      "page": 70,
+      "audience": "teachers",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "A",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p026:fixed:ea9b33d3afd93f945715",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 26,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "A",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p026:fixed:73de5fb87209ca9c131a",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 26,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "A",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p026:fixed:e5bfcab94db065e5b6f8",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 26,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "B",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:3f18e840d31eb4ec68ed",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 26,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "B",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p044:paragraph:13c6e46467d36ad3582f",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 44,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "B",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:60e56232f6fdef41aaff",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 26,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "C",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:3f18e840d31eb4ec68ed",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 26,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "C",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p044:paragraph:13c6e46467d36ad3582f",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 44,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q18",
+      "strategy": "C",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:60e56232f6fdef41aaff",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 26,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "A",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p059:fixed:2550583fa822b9d96097",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 59,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "A",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:fixed:6c0408fce0119df37212",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 16,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "A",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p058:fixed:ad489d65917394a890f1",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 58,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "B",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p058:paragraph:350f31795a1283c67f64",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 58,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "B",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 16,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "B",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p062:paragraph:f25ab51a1a91345ee7ba",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 62,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "C",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p058:paragraph:350f31795a1283c67f64",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 58,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "C",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 16,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q19",
+      "strategy": "C",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p062:paragraph:f25ab51a1a91345ee7ba",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 62,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "A",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:fixed:6c0408fce0119df37212",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 16,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "A",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p074:fixed:6170348fdad3432b8b3a",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 74,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "A",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p018:fixed:c6f273127f90ff343ac1",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 18,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "B",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p074:paragraph:8e5010e82923487fac24",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 74,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "B",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p018:paragraph:732da67c075d3c4bf571",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 18,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "B",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 16,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "C",
+      "rank": 1,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p074:paragraph:8e5010e82923487fac24",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 74,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "C",
+      "rank": 2,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p018:paragraph:732da67c075d3c4bf571",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 18,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    },
+    {
+      "question_id": "q20",
+      "strategy": "C",
+      "rank": 3,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+      "source": "data/corpus/391105eng_Vi-10022025.pdf",
+      "page": 16,
+      "audience": "students",
+      "checks": {
+        "source_matches_manifest": true,
+        "page_is_included": true,
+        "audience_matches_manifest": true,
+        "page_id_matches": true,
+        "title_version_hash_match": true,
+        "chunk_text_matches_pdf_page": true
+      },
+      "valid": true
+    }
+  ]
+}

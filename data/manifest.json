@@ -1,0 +1,1241 @@
+{
+  "corpus_id": "unesco-ai-competency-frameworks-vi-2025",
+  "topic": "Khung năng lực AI trong giáo dục cho giáo viên và học sinh",
+  "created_at": "2026-11-13",
+  "page_id_rule": "Trang vật lý PDF bắt đầu từ 1: <source_id>:pNNN.",
+  "normalization_for_count": "pypdf; Unicode NFKC; bỏ đường kẻ và đầu/chân trang lặp lại; gộp khoảng trắng",
+  "counting_rule": "Chỉ tính các trang nội dung chính từ Chương 1 đến kết luận; loại bìa, phần đầu, mục lục, trang phân cách, tài liệu tham khảo và bìa sau. Lý do loại ghi ở từng trang.",
+  "filter_metadata": {
+    "field": "audience",
+    "values": [
+      "teachers",
+      "students"
+    ],
+    "source": "Nhan đề trên bìa của từng bản dịch",
+    "use": "Chỉ lọc khi câu hỏi hoặc ngữ cảnh xác định rõ đối tượng giáo viên hoặc học sinh trước khi truy xuất."
+  },
+  "extractor": {
+    "name": "pypdf",
+    "version": "6.21.4"
+  },
+  "total_physical_pages": 167,
+  "total_content_pages": 134,
+  "total_content_normalized_char_count": 332515,
+  "documents": [
+    {
+      "source_id": "unesco-ai-cft-vi-2025",
+      "title": "Khung năng lực AI cho giáo viên",
+      "source_path_or_url": "data/corpus/391104eng_Vi-03022025.pdf",
+      "source_url": "https://zenodo.org/records/14897590",
+      "original_url": "https://unesdoc.unesco.org/ark:/48223/pf0000391104",
+      "license_or_permission": "Văn bản trong PDF ghi CC BY-SA 3.0 IGO: ghi công UNESCO, bản gốc và người dịch; bản phái sinh phải chia sẻ tương tự. Hình ảnh đánh dấu (*) không thuộc giấy phép này.",
+      "license_url": "https://www.unesco.org/en/open-access/cc-sa",
+      "accessed_at": "2026-11-13",
+      "translator": "Lê Trung Nghĩa",
+      "translation_completed_at": "2025-02-03",
+      "version": "Bản dịch tiếng Việt v1 (Zenodo); bản gốc UNESCO 2024",
+      "audience": "teachers",
+      "sha256": "9b1aa569eeec00877579802beab93daab809b5895c2aab5994f49a206b0359ba",
+      "zenodo_md5": "b8cad4187f9fde6d9f475519161930b7",
+      "physical_page_count": 73,
+      "content_page_count": 57,
+      "content_normalized_char_count": 143755,
+      "content_page_ids": [
+        "unesco-ai-cft-vi-2025:p014",
+        "unesco-ai-cft-vi-2025:p015",
+        "unesco-ai-cft-vi-2025:p016",
+        "unesco-ai-cft-vi-2025:p017",
+        "unesco-ai-cft-vi-2025:p018",
+        "unesco-ai-cft-vi-2025:p019",
+        "unesco-ai-cft-vi-2025:p020",
+        "unesco-ai-cft-vi-2025:p021",
+        "unesco-ai-cft-vi-2025:p022",
+        "unesco-ai-cft-vi-2025:p023",
+        "unesco-ai-cft-vi-2025:p024",
+        "unesco-ai-cft-vi-2025:p025",
+        "unesco-ai-cft-vi-2025:p026",
+        "unesco-ai-cft-vi-2025:p027",
+        "unesco-ai-cft-vi-2025:p028",
+        "unesco-ai-cft-vi-2025:p029",
+        "unesco-ai-cft-vi-2025:p030",
+        "unesco-ai-cft-vi-2025:p031",
+        "unesco-ai-cft-vi-2025:p032",
+        "unesco-ai-cft-vi-2025:p033",
+        "unesco-ai-cft-vi-2025:p034",
+        "unesco-ai-cft-vi-2025:p035",
+        "unesco-ai-cft-vi-2025:p036",
+        "unesco-ai-cft-vi-2025:p037",
+        "unesco-ai-cft-vi-2025:p038",
+        "unesco-ai-cft-vi-2025:p039",
+        "unesco-ai-cft-vi-2025:p040",
+        "unesco-ai-cft-vi-2025:p041",
+        "unesco-ai-cft-vi-2025:p042",
+        "unesco-ai-cft-vi-2025:p043",
+        "unesco-ai-cft-vi-2025:p044",
+        "unesco-ai-cft-vi-2025:p045",
+        "unesco-ai-cft-vi-2025:p046",
+        "unesco-ai-cft-vi-2025:p047",
+        "unesco-ai-cft-vi-2025:p048",
+        "unesco-ai-cft-vi-2025:p049",
+        "unesco-ai-cft-vi-2025:p050",
+        "unesco-ai-cft-vi-2025:p051",
+        "unesco-ai-cft-vi-2025:p052",
+        "unesco-ai-cft-vi-2025:p053",
+        "unesco-ai-cft-vi-2025:p054",
+        "unesco-ai-cft-vi-2025:p055",
+        "unesco-ai-cft-vi-2025:p056",
+        "unesco-ai-cft-vi-2025:p057",
+        "unesco-ai-cft-vi-2025:p058",
+        "unesco-ai-cft-vi-2025:p059",
+        "unesco-ai-cft-vi-2025:p060",
+        "unesco-ai-cft-vi-2025:p061",
+        "unesco-ai-cft-vi-2025:p062",
+        "unesco-ai-cft-vi-2025:p063",
+        "unesco-ai-cft-vi-2025:p064",
+        "unesco-ai-cft-vi-2025:p065",
+        "unesco-ai-cft-vi-2025:p066",
+        "unesco-ai-cft-vi-2025:p067",
+        "unesco-ai-cft-vi-2025:p068",
+        "unesco-ai-cft-vi-2025:p069",
+        "unesco-ai-cft-vi-2025:p070"
+      ],
+      "pages": [
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p001",
+          "physical_page": 1,
+          "normalized_char_count": 325,
+          "included": false,
+          "exclusion_reason": "bìa"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p002",
+          "physical_page": 2,
+          "normalized_char_count": 1499,
+          "included": false,
+          "exclusion_reason": "giới thiệu UNESCO, ngoài nội dung chính của khung"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p003",
+          "physical_page": 3,
+          "normalized_char_count": 1487,
+          "included": false,
+          "exclusion_reason": "thông tin giấy phép và xuất bản"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p004",
+          "physical_page": 4,
+          "normalized_char_count": 1728,
+          "included": false,
+          "exclusion_reason": "tóm tắt đầu tài liệu, không tính trùng với phần nội dung chính"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p005",
+          "physical_page": 5,
+          "normalized_char_count": 0,
+          "included": false,
+          "exclusion_reason": "trang phân cách"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p006",
+          "physical_page": 6,
+          "normalized_char_count": 2162,
+          "included": false,
+          "exclusion_reason": "lời nói đầu"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p007",
+          "physical_page": 7,
+          "normalized_char_count": 498,
+          "included": false,
+          "exclusion_reason": "lời nói đầu"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p008",
+          "physical_page": 8,
+          "normalized_char_count": 2220,
+          "included": false,
+          "exclusion_reason": "lời thừa nhận"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p009",
+          "physical_page": 9,
+          "normalized_char_count": 1269,
+          "included": false,
+          "exclusion_reason": "lời thừa nhận"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p010",
+          "physical_page": 10,
+          "normalized_char_count": 2573,
+          "included": false,
+          "exclusion_reason": "mục lục"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p011",
+          "physical_page": 11,
+          "normalized_char_count": 2111,
+          "included": false,
+          "exclusion_reason": "mục lục"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p012",
+          "physical_page": 12,
+          "normalized_char_count": 1022,
+          "included": false,
+          "exclusion_reason": "danh sách bảng và hộp"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p013",
+          "physical_page": 13,
+          "normalized_char_count": 990,
+          "included": false,
+          "exclusion_reason": "danh sách từ viết tắt"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p014",
+          "physical_page": 14,
+          "normalized_char_count": 2272,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p015",
+          "physical_page": 15,
+          "normalized_char_count": 2263,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p016",
+          "physical_page": 16,
+          "normalized_char_count": 2118,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p017",
+          "physical_page": 17,
+          "normalized_char_count": 2353,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p018",
+          "physical_page": 18,
+          "normalized_char_count": 1609,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p019",
+          "physical_page": 19,
+          "normalized_char_count": 2281,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p020",
+          "physical_page": 20,
+          "normalized_char_count": 2115,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p021",
+          "physical_page": 21,
+          "normalized_char_count": 2266,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p022",
+          "physical_page": 22,
+          "normalized_char_count": 2330,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p023",
+          "physical_page": 23,
+          "normalized_char_count": 2155,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p024",
+          "physical_page": 24,
+          "normalized_char_count": 2416,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p025",
+          "physical_page": 25,
+          "normalized_char_count": 2213,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p026",
+          "physical_page": 26,
+          "normalized_char_count": 1958,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p027",
+          "physical_page": 27,
+          "normalized_char_count": 1798,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p028",
+          "physical_page": 28,
+          "normalized_char_count": 2039,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p029",
+          "physical_page": 29,
+          "normalized_char_count": 2311,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p030",
+          "physical_page": 30,
+          "normalized_char_count": 2391,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p031",
+          "physical_page": 31,
+          "normalized_char_count": 2288,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p032",
+          "physical_page": 32,
+          "normalized_char_count": 2254,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p033",
+          "physical_page": 33,
+          "normalized_char_count": 2147,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p034",
+          "physical_page": 34,
+          "normalized_char_count": 2133,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p035",
+          "physical_page": 35,
+          "normalized_char_count": 1256,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p036",
+          "physical_page": 36,
+          "normalized_char_count": 2787,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p037",
+          "physical_page": 37,
+          "normalized_char_count": 3447,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p038",
+          "physical_page": 38,
+          "normalized_char_count": 2976,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p039",
+          "physical_page": 39,
+          "normalized_char_count": 3087,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p040",
+          "physical_page": 40,
+          "normalized_char_count": 3401,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p041",
+          "physical_page": 41,
+          "normalized_char_count": 3001,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p042",
+          "physical_page": 42,
+          "normalized_char_count": 2148,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p043",
+          "physical_page": 43,
+          "normalized_char_count": 3793,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p044",
+          "physical_page": 44,
+          "normalized_char_count": 2723,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p045",
+          "physical_page": 45,
+          "normalized_char_count": 3263,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p046",
+          "physical_page": 46,
+          "normalized_char_count": 3392,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p047",
+          "physical_page": 47,
+          "normalized_char_count": 3697,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p048",
+          "physical_page": 48,
+          "normalized_char_count": 3127,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p049",
+          "physical_page": 49,
+          "normalized_char_count": 3720,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p050",
+          "physical_page": 50,
+          "normalized_char_count": 2951,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p051",
+          "physical_page": 51,
+          "normalized_char_count": 3053,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p052",
+          "physical_page": 52,
+          "normalized_char_count": 3056,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p053",
+          "physical_page": 53,
+          "normalized_char_count": 3711,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p054",
+          "physical_page": 54,
+          "normalized_char_count": 3671,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p055",
+          "physical_page": 55,
+          "normalized_char_count": 3533,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p056",
+          "physical_page": 56,
+          "normalized_char_count": 3687,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p057",
+          "physical_page": 57,
+          "normalized_char_count": 350,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p058",
+          "physical_page": 58,
+          "normalized_char_count": 2317,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p059",
+          "physical_page": 59,
+          "normalized_char_count": 2345,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p060",
+          "physical_page": 60,
+          "normalized_char_count": 2114,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p061",
+          "physical_page": 61,
+          "normalized_char_count": 1106,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p062",
+          "physical_page": 62,
+          "normalized_char_count": 2458,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p063",
+          "physical_page": 63,
+          "normalized_char_count": 2289,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p064",
+          "physical_page": 64,
+          "normalized_char_count": 2103,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p065",
+          "physical_page": 65,
+          "normalized_char_count": 2341,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p066",
+          "physical_page": 66,
+          "normalized_char_count": 1942,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p067",
+          "physical_page": 67,
+          "normalized_char_count": 2315,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p068",
+          "physical_page": 68,
+          "normalized_char_count": 2053,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p069",
+          "physical_page": 69,
+          "normalized_char_count": 2527,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p070",
+          "physical_page": 70,
+          "normalized_char_count": 2305,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p071",
+          "physical_page": 71,
+          "normalized_char_count": 2035,
+          "included": false,
+          "exclusion_reason": "chỉ có tài liệu tham khảo"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p072",
+          "physical_page": 72,
+          "normalized_char_count": 1801,
+          "included": false,
+          "exclusion_reason": "chỉ có tài liệu tham khảo"
+        },
+        {
+          "page_id": "unesco-ai-cft-vi-2025:p073",
+          "physical_page": 73,
+          "normalized_char_count": 759,
+          "included": false,
+          "exclusion_reason": "bìa sau"
+        }
+      ]
+    },
+    {
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "title": "Khung năng lực AI cho học sinh",
+      "source_path_or_url": "data/corpus/391105eng_Vi-10022025.pdf",
+      "source_url": "https://zenodo.org/records/14903158",
+      "original_url": "https://unesdoc.unesco.org/ark:/48223/pf0000391105",
+      "license_or_permission": "Văn bản trong PDF ghi CC BY-SA 3.0 IGO: ghi công UNESCO, bản gốc và người dịch; bản phái sinh phải chia sẻ tương tự. Hình ảnh đánh dấu (*) không thuộc giấy phép này.",
+      "license_url": "https://www.unesco.org/en/open-access/cc-sa",
+      "accessed_at": "2026-11-13",
+      "translator": "Lê Trung Nghĩa",
+      "translation_completed_at": "2025-02-10",
+      "version": "Bản dịch tiếng Việt v1 (Zenodo); bản gốc UNESCO 2024",
+      "audience": "students",
+      "sha256": "88ae819aedc1963105094ffb11428ccc8f88ca3ab6fdafe359b84b4494cfe88c",
+      "zenodo_md5": "a1c8c5bd89de7dd87940f3815d335983",
+      "physical_page_count": 94,
+      "content_page_count": 77,
+      "content_normalized_char_count": 188760,
+      "content_page_ids": [
+        "unesco-ai-cfs-vi-2025:p014",
+        "unesco-ai-cfs-vi-2025:p015",
+        "unesco-ai-cfs-vi-2025:p016",
+        "unesco-ai-cfs-vi-2025:p017",
+        "unesco-ai-cfs-vi-2025:p018",
+        "unesco-ai-cfs-vi-2025:p019",
+        "unesco-ai-cfs-vi-2025:p020",
+        "unesco-ai-cfs-vi-2025:p021",
+        "unesco-ai-cfs-vi-2025:p022",
+        "unesco-ai-cfs-vi-2025:p023",
+        "unesco-ai-cfs-vi-2025:p024",
+        "unesco-ai-cfs-vi-2025:p025",
+        "unesco-ai-cfs-vi-2025:p026",
+        "unesco-ai-cfs-vi-2025:p027",
+        "unesco-ai-cfs-vi-2025:p028",
+        "unesco-ai-cfs-vi-2025:p029",
+        "unesco-ai-cfs-vi-2025:p030",
+        "unesco-ai-cfs-vi-2025:p031",
+        "unesco-ai-cfs-vi-2025:p032",
+        "unesco-ai-cfs-vi-2025:p033",
+        "unesco-ai-cfs-vi-2025:p034",
+        "unesco-ai-cfs-vi-2025:p035",
+        "unesco-ai-cfs-vi-2025:p036",
+        "unesco-ai-cfs-vi-2025:p037",
+        "unesco-ai-cfs-vi-2025:p038",
+        "unesco-ai-cfs-vi-2025:p039",
+        "unesco-ai-cfs-vi-2025:p040",
+        "unesco-ai-cfs-vi-2025:p041",
+        "unesco-ai-cfs-vi-2025:p042",
+        "unesco-ai-cfs-vi-2025:p043",
+        "unesco-ai-cfs-vi-2025:p044",
+        "unesco-ai-cfs-vi-2025:p045",
+        "unesco-ai-cfs-vi-2025:p046",
+        "unesco-ai-cfs-vi-2025:p047",
+        "unesco-ai-cfs-vi-2025:p048",
+        "unesco-ai-cfs-vi-2025:p049",
+        "unesco-ai-cfs-vi-2025:p050",
+        "unesco-ai-cfs-vi-2025:p051",
+        "unesco-ai-cfs-vi-2025:p052",
+        "unesco-ai-cfs-vi-2025:p053",
+        "unesco-ai-cfs-vi-2025:p054",
+        "unesco-ai-cfs-vi-2025:p055",
+        "unesco-ai-cfs-vi-2025:p056",
+        "unesco-ai-cfs-vi-2025:p057",
+        "unesco-ai-cfs-vi-2025:p058",
+        "unesco-ai-cfs-vi-2025:p059",
+        "unesco-ai-cfs-vi-2025:p060",
+        "unesco-ai-cfs-vi-2025:p061",
+        "unesco-ai-cfs-vi-2025:p062",
+        "unesco-ai-cfs-vi-2025:p063",
+        "unesco-ai-cfs-vi-2025:p064",
+        "unesco-ai-cfs-vi-2025:p065",
+        "unesco-ai-cfs-vi-2025:p066",
+        "unesco-ai-cfs-vi-2025:p067",
+        "unesco-ai-cfs-vi-2025:p068",
+        "unesco-ai-cfs-vi-2025:p069",
+        "unesco-ai-cfs-vi-2025:p070",
+        "unesco-ai-cfs-vi-2025:p071",
+        "unesco-ai-cfs-vi-2025:p072",
+        "unesco-ai-cfs-vi-2025:p073",
+        "unesco-ai-cfs-vi-2025:p074",
+        "unesco-ai-cfs-vi-2025:p075",
+        "unesco-ai-cfs-vi-2025:p076",
+        "unesco-ai-cfs-vi-2025:p077",
+        "unesco-ai-cfs-vi-2025:p078",
+        "unesco-ai-cfs-vi-2025:p079",
+        "unesco-ai-cfs-vi-2025:p080",
+        "unesco-ai-cfs-vi-2025:p081",
+        "unesco-ai-cfs-vi-2025:p082",
+        "unesco-ai-cfs-vi-2025:p083",
+        "unesco-ai-cfs-vi-2025:p084",
+        "unesco-ai-cfs-vi-2025:p085",
+        "unesco-ai-cfs-vi-2025:p086",
+        "unesco-ai-cfs-vi-2025:p087",
+        "unesco-ai-cfs-vi-2025:p088",
+        "unesco-ai-cfs-vi-2025:p089",
+        "unesco-ai-cfs-vi-2025:p090"
+      ],
+      "pages": [
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p001",
+          "physical_page": 1,
+          "normalized_char_count": 325,
+          "included": false,
+          "exclusion_reason": "bìa"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p002",
+          "physical_page": 2,
+          "normalized_char_count": 1499,
+          "included": false,
+          "exclusion_reason": "giới thiệu UNESCO, ngoài nội dung chính của khung"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p003",
+          "physical_page": 3,
+          "normalized_char_count": 1493,
+          "included": false,
+          "exclusion_reason": "thông tin giấy phép và xuất bản"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p004",
+          "physical_page": 4,
+          "normalized_char_count": 1529,
+          "included": false,
+          "exclusion_reason": "tóm tắt đầu tài liệu, không tính trùng với phần nội dung chính"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p005",
+          "physical_page": 5,
+          "normalized_char_count": 0,
+          "included": false,
+          "exclusion_reason": "trang phân cách"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p006",
+          "physical_page": 6,
+          "normalized_char_count": 2125,
+          "included": false,
+          "exclusion_reason": "lời nói đầu"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p007",
+          "physical_page": 7,
+          "normalized_char_count": 476,
+          "included": false,
+          "exclusion_reason": "lời nói đầu"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p008",
+          "physical_page": 8,
+          "normalized_char_count": 2167,
+          "included": false,
+          "exclusion_reason": "lời thừa nhận"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p009",
+          "physical_page": 9,
+          "normalized_char_count": 550,
+          "included": false,
+          "exclusion_reason": "lời thừa nhận"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p010",
+          "physical_page": 10,
+          "normalized_char_count": 2710,
+          "included": false,
+          "exclusion_reason": "mục lục"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p011",
+          "physical_page": 11,
+          "normalized_char_count": 2055,
+          "included": false,
+          "exclusion_reason": "mục lục"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p012",
+          "physical_page": 12,
+          "normalized_char_count": 1764,
+          "included": false,
+          "exclusion_reason": "danh sách bảng"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p013",
+          "physical_page": 13,
+          "normalized_char_count": 1297,
+          "included": false,
+          "exclusion_reason": "danh sách từ viết tắt"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p014",
+          "physical_page": 14,
+          "normalized_char_count": 2407,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p015",
+          "physical_page": 15,
+          "normalized_char_count": 2160,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p016",
+          "physical_page": 16,
+          "normalized_char_count": 1349,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p017",
+          "physical_page": 17,
+          "normalized_char_count": 2401,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p018",
+          "physical_page": 18,
+          "normalized_char_count": 2392,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p019",
+          "physical_page": 19,
+          "normalized_char_count": 2401,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p020",
+          "physical_page": 20,
+          "normalized_char_count": 2280,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p021",
+          "physical_page": 21,
+          "normalized_char_count": 2437,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p022",
+          "physical_page": 22,
+          "normalized_char_count": 472,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p023",
+          "physical_page": 23,
+          "normalized_char_count": 2249,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p024",
+          "physical_page": 24,
+          "normalized_char_count": 2324,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p025",
+          "physical_page": 25,
+          "normalized_char_count": 1913,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p026",
+          "physical_page": 26,
+          "normalized_char_count": 2236,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p027",
+          "physical_page": 27,
+          "normalized_char_count": 2376,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p028",
+          "physical_page": 28,
+          "normalized_char_count": 2049,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p029",
+          "physical_page": 29,
+          "normalized_char_count": 2111,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p030",
+          "physical_page": 30,
+          "normalized_char_count": 2168,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p031",
+          "physical_page": 31,
+          "normalized_char_count": 2238,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p032",
+          "physical_page": 32,
+          "normalized_char_count": 2148,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p033",
+          "physical_page": 33,
+          "normalized_char_count": 2484,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p034",
+          "physical_page": 34,
+          "normalized_char_count": 244,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p035",
+          "physical_page": 35,
+          "normalized_char_count": 2304,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p036",
+          "physical_page": 36,
+          "normalized_char_count": 1194,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p037",
+          "physical_page": 37,
+          "normalized_char_count": 3686,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p038",
+          "physical_page": 38,
+          "normalized_char_count": 2658,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p039",
+          "physical_page": 39,
+          "normalized_char_count": 4107,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p040",
+          "physical_page": 40,
+          "normalized_char_count": 3423,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p041",
+          "physical_page": 41,
+          "normalized_char_count": 3278,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p042",
+          "physical_page": 42,
+          "normalized_char_count": 2958,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p043",
+          "physical_page": 43,
+          "normalized_char_count": 2389,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p044",
+          "physical_page": 44,
+          "normalized_char_count": 2827,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p045",
+          "physical_page": 45,
+          "normalized_char_count": 2440,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p046",
+          "physical_page": 46,
+          "normalized_char_count": 2881,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p047",
+          "physical_page": 47,
+          "normalized_char_count": 3463,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p048",
+          "physical_page": 48,
+          "normalized_char_count": 3448,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p049",
+          "physical_page": 49,
+          "normalized_char_count": 3270,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p050",
+          "physical_page": 50,
+          "normalized_char_count": 3072,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p051",
+          "physical_page": 51,
+          "normalized_char_count": 2709,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p052",
+          "physical_page": 52,
+          "normalized_char_count": 3729,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p053",
+          "physical_page": 53,
+          "normalized_char_count": 3770,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p054",
+          "physical_page": 54,
+          "normalized_char_count": 2962,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p055",
+          "physical_page": 55,
+          "normalized_char_count": 3603,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p056",
+          "physical_page": 56,
+          "normalized_char_count": 3506,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p057",
+          "physical_page": 57,
+          "normalized_char_count": 2498,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p058",
+          "physical_page": 58,
+          "normalized_char_count": 1791,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p059",
+          "physical_page": 59,
+          "normalized_char_count": 2344,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p060",
+          "physical_page": 60,
+          "normalized_char_count": 2337,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p061",
+          "physical_page": 61,
+          "normalized_char_count": 2172,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p062",
+          "physical_page": 62,
+          "normalized_char_count": 2463,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p063",
+          "physical_page": 63,
+          "normalized_char_count": 2360,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p064",
+          "physical_page": 64,
+          "normalized_char_count": 2165,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p065",
+          "physical_page": 65,
+          "normalized_char_count": 2619,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p066",
+          "physical_page": 66,
+          "normalized_char_count": 2472,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p067",
+          "physical_page": 67,
+          "normalized_char_count": 2264,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p068",
+          "physical_page": 68,
+          "normalized_char_count": 2302,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p069",
+          "physical_page": 69,
+          "normalized_char_count": 1685,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p070",
+          "physical_page": 70,
+          "normalized_char_count": 2489,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p071",
+          "physical_page": 71,
+          "normalized_char_count": 2482,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p072",
+          "physical_page": 72,
+          "normalized_char_count": 2298,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p073",
+          "physical_page": 73,
+          "normalized_char_count": 2217,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p074",
+          "physical_page": 74,
+          "normalized_char_count": 2254,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p075",
+          "physical_page": 75,
+          "normalized_char_count": 2313,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p076",
+          "physical_page": 76,
+          "normalized_char_count": 2826,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p077",
+          "physical_page": 77,
+          "normalized_char_count": 3126,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p078",
+          "physical_page": 78,
+          "normalized_char_count": 2288,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p079",
+          "physical_page": 79,
+          "normalized_char_count": 2499,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p080",
+          "physical_page": 80,
+          "normalized_char_count": 2292,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p081",
+          "physical_page": 81,
+          "normalized_char_count": 2353,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p082",
+          "physical_page": 82,
+          "normalized_char_count": 1606,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p083",
+          "physical_page": 83,
+          "normalized_char_count": 2272,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p084",
+          "physical_page": 84,
+          "normalized_char_count": 2394,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p085",
+          "physical_page": 85,
+          "normalized_char_count": 2541,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p086",
+          "physical_page": 86,
+          "normalized_char_count": 2750,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p087",
+          "physical_page": 87,
+          "normalized_char_count": 2450,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p088",
+          "physical_page": 88,
+          "normalized_char_count": 2529,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p089",
+          "physical_page": 89,
+          "normalized_char_count": 598,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p090",
+          "physical_page": 90,
+          "normalized_char_count": 2195,
+          "included": true
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p091",
+          "physical_page": 91,
+          "normalized_char_count": 1894,
+          "included": false,
+          "exclusion_reason": "chỉ có tài liệu tham khảo"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p092",
+          "physical_page": 92,
+          "normalized_char_count": 1581,
+          "included": false,
+          "exclusion_reason": "chỉ có tài liệu tham khảo"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p093",
+          "physical_page": 93,
+          "normalized_char_count": 1152,
+          "included": false,
+          "exclusion_reason": "chú giải cuối tài liệu, ngoài phần nội dung chính"
+        },
+        {
+          "page_id": "unesco-ai-cfs-vi-2025:p094",
+          "physical_page": 94,
+          "normalized_char_count": 1266,
+          "included": false,
+          "exclusion_reason": "bìa sau"
+        }
+      ]
+    }
+  ]
+}

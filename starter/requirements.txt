@@ -1,4 +1,10 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
+# Pipeline dependencies. For NVIDIA GPU on Windows, install the CUDA PyTorch
+# build after this file; see ../docs/RUN_LAB.md.
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+sentence-transformers==6.3.0
+transformers==5.20.2
+pillow==12.3.0
+torch==2.14.1
+torchvision==0.29.1

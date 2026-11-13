@@ -1,0 +1,1090 @@
+{
+  "coherence_sample_rule": "First five included physical pages per document; midpoint character on each page.",
+  "coherence": [
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cfs-vi-2025:p014",
+      "source_offset": 1205,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p014:fixed:ade8256a1b3f36ecb832",
+      "chunk_text": "ảm xuống thành nơi thử nghiệm cho việc áp dụng thụ động AI. Vai trò của ngành giáo dục không chỉ là chuẩn bị cho học sinh thích nghi với một xã hội đang ngày càng bị công nghệ AI biến đổi; mà còn có vai trò quan trọng trong việc trao quyền cho những người trẻ tuổi để cùng nhau tạo ra tương lai bền vững bằng cách cân bằng lại các mối quan hệ của chúng ta, không chỉ với người khác mà còn với công nghệ và môi trường. Bằng cách xác định các năng lực cốt lõi mà học sinh có thể cần khi chúng ta tiến s",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa từ và kết giữa câu; phần nói về vai trò giáo dục vẫn hiểu được một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cfs-vi-2025:p014",
+      "source_offset": 1205,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p014:paragraph:c68d07f129ed40bdead4",
+      "chunk_text": "Giáo dục, với tư cách là một khu vực công, không thể bị giảm xuống thành nơi thử nghiệm cho việc áp dụng thụ động AI. Vai trò của ngành giáo dục không chỉ là chuẩn bị cho học sinh thích nghi với một xã hội đang ngày càng bị công nghệ AI biến đổi; mà còn có vai trò quan trọng trong việc trao quyền cho những người trẻ tuổi để cùng nhau tạo ra tương lai bền vững bằng cách cân bằng lại các mối quan hệ của chúng ta, không chỉ với người khác mà còn với công nghệ và môi trường.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Giữ trọn ý giáo dục trao quyền cho người trẻ và cân bằng quan hệ với công nghệ, môi trường."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cfs-vi-2025:p014",
+      "source_offset": 1205,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p014:paragraph:c68d07f129ed40bdead4",
+      "chunk_text": "Giáo dục, với tư cách là một khu vực công, không thể bị giảm xuống thành nơi thử nghiệm cho việc áp dụng thụ động AI. Vai trò của ngành giáo dục không chỉ là chuẩn bị cho học sinh thích nghi với một xã hội đang ngày càng bị công nghệ AI biến đổi; mà còn có vai trò quan trọng trong việc trao quyền cho những người trẻ tuổi để cùng nhau tạo ra tương lai bền vững bằng cách cân bằng lại các mối quan hệ của chúng ta, không chỉ với người khác mà còn với công nghệ và môi trường.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B tại vị trí này; ý được giữ trọn."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cfs-vi-2025:p015",
+      "source_offset": 1081,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p015:fixed:cd5dd8dab72d7b7dcfff",
+      "chunk_text": "ng cấp thông tin cho việc thiết kế các khung năng lực AI quốc gia/địa phương dành cho học sinh, thúc đẩy cách tiếp cận có phản biện và đạo đức đối với các công cụ AI, cũng như phát triển kiến thức nền tảng cần thiết để sử dụng hiệu quả và có ý nghĩa trong giáo dục. Mục đích của AI CFS này là lấp đầy khoảng trống này.\n\nCông nghệ AI là một mục tiêu thay đổi nhanh chóng. Do đó, điều quan trọng là phải đảm bảo rằng tất cả học sinh đều có một bộ kiến thức, kỹ năng và giá trị cốt lõi để tương tác một",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa cụm từ và cắt câu cuối; mục đích khung vẫn đọc được một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cfs-vi-2025:p015",
+      "source_offset": 1081,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p015:paragraph:41c1369c773d38daa9de",
+      "chunk_text": "Một khung tham chiếu quốc tế như vậy có thể cung cấp thông tin cho việc thiết kế các khung năng lực AI quốc gia/địa phương dành cho học sinh, thúc đẩy cách tiếp cận có phản biện và đạo đức đối với các công cụ AI, cũng như phát triển kiến thức nền tảng cần thiết để sử dụng hiệu quả và có ý nghĩa trong giáo dục. Mục đích của AI CFS này là lấp đầy khoảng trống này.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Đoạn tự giải thích vai trò khung tham chiếu và mục đích AI CFS."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cfs-vi-2025:p015",
+      "source_offset": 1081,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p015:paragraph:41c1369c773d38daa9de",
+      "chunk_text": "Một khung tham chiếu quốc tế như vậy có thể cung cấp thông tin cho việc thiết kế các khung năng lực AI quốc gia/địa phương dành cho học sinh, thúc đẩy cách tiếp cận có phản biện và đạo đức đối với các công cụ AI, cũng như phát triển kiến thức nền tảng cần thiết để sử dụng hiệu quả và có ý nghĩa trong giáo dục. Mục đích của AI CFS này là lấp đầy khoảng trống này.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B tại vị trí này; đoạn tự đủ ngữ cảnh."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cfs-vi-2025:p016",
+      "source_offset": 676,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:fixed:3ff924d0c3b83b7a8745",
+      "chunk_text": "việc thiết kế các khung năng lực AI của quốc gia hoặc tổ chức; (2) chỉ định hiệu suất thái độ và hành vi điển hình liên quan đến các khía cạnh chính của năng lực AI ở các mức thông thạo khác nhau để giúp thiết kế nội dung chương trình giảng dạy liên quan đến AI cho học sinh; và (3) đề xuất một lộ trình mở để giúp lập kế hoạch trình tự học tập của chương trình giảng dạy AI trên khắp các cấp lớp.\n\nLà một khung tham chiếu toàn cầu, AI CFS sẽ được điều chỉnh theo các mức độ sẵn sàng khác nhau của cá",
+      "coherence_label_0_to_2": 1,
+      "reason": "Bắt đầu ở giữa danh sách ba mục và kết ở giữa câu kế tiếp; chỉ hiểu một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cfs-vi-2025:p016",
+      "source_offset": 676,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:9505e71bafc6fd3be40c",
+      "chunk_text": "Cụ thể hơn, AI CFS: (1) cung cấp một khung tham chiếu toàn cầu về bộ năng lực AI cốt lõi cho học sinh để thông báo cho việc thiết kế các khung năng lực AI của quốc gia hoặc tổ chức; (2) chỉ định hiệu suất thái độ và hành vi điển hình liên quan đến các khía cạnh chính của năng lực AI ở các mức thông thạo khác nhau để giúp thiết kế nội dung chương trình giảng dạy liên quan đến AI cho học sinh; và (3) đề xuất một lộ trình mở để giúp lập kế hoạch trình tự học tập của chương trình giảng dạy AI trên khắp các cấp lớp.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Giữ đủ ba mục của AI CFS cùng chủ thể và kết thúc trọn câu."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cfs-vi-2025:p016",
+      "source_offset": 676,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:9505e71bafc6fd3be40c",
+      "chunk_text": "Cụ thể hơn, AI CFS: (1) cung cấp một khung tham chiếu toàn cầu về bộ năng lực AI cốt lõi cho học sinh để thông báo cho việc thiết kế các khung năng lực AI của quốc gia hoặc tổ chức; (2) chỉ định hiệu suất thái độ và hành vi điển hình liên quan đến các khía cạnh chính của năng lực AI ở các mức thông thạo khác nhau để giúp thiết kế nội dung chương trình giảng dạy liên quan đến AI cho học sinh; và (3) đề xuất một lộ trình mở để giúp lập kế hoạch trình tự học tập của chương trình giảng dạy AI trên khắp các cấp lớp.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B; ba mục vẫn đủ ngữ cảnh."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cfs-vi-2025:p017",
+      "source_offset": 1202,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p017:fixed:44f5dac5b2b389e354ec",
+      "chunk_text": "ười phải đối mặt hay nó gây ra những mối đe dọa không thể vượt qua đối với con người? Những tác động tiêu cực đến môi trường đào tạo và sử dụng AI có không tương xứng với những lợi ích dự kiến của nó hay không? Những tác động xã hội, kinh tế, chính trị và nhân khẩu học nào của việc sử dụng AI cần được xem xét cẩn thận?\n\nSự chuyển đổi do AI thúc đẩy trên khắp các lĩnh vực phát triển có ý nghĩa sâu sắc đối với quyền tự quyết của con người, tương tác của con người, công bằng xã hội, tính toàn diện",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa câu hỏi và cắt ý cuối; các câu hỏi về tác động AI vẫn hiểu được một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cfs-vi-2025:p017",
+      "source_offset": 1202,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p017:paragraph:4b2c7dfad777059127db",
+      "chunk_text": "AI có sẵn sàng giúp giải quyết những thách thức trong thế giới thực mà con người phải đối mặt hay nó gây ra những mối đe dọa không thể vượt qua đối với con người? Những tác động tiêu cực đến môi trường đào tạo và sử dụng AI có không tương xứng với những lợi ích dự kiến của nó hay không? Những tác động xã hội, kinh tế, chính trị và nhân khẩu học nào của việc sử dụng AI cần được xem xét cẩn thận?",
+      "coherence_label_0_to_2": 2,
+      "reason": "Các câu hỏi về thách thức, môi trường và tác động xã hội của AI được giữ trọn."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cfs-vi-2025:p017",
+      "source_offset": 1202,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p017:paragraph:4b2c7dfad777059127db",
+      "chunk_text": "AI có sẵn sàng giúp giải quyết những thách thức trong thế giới thực mà con người phải đối mặt hay nó gây ra những mối đe dọa không thể vượt qua đối với con người? Những tác động tiêu cực đến môi trường đào tạo và sử dụng AI có không tương xứng với những lợi ích dự kiến của nó hay không? Những tác động xã hội, kinh tế, chính trị và nhân khẩu học nào của việc sử dụng AI cần được xem xét cẩn thận?",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B; các câu hỏi được giữ trọn."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cfs-vi-2025:p018",
+      "source_offset": 1199,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p018:fixed:91328ff3d0eaf639ba94",
+      "chunk_text": "ng quanh AI, tiếp thu các nguyên tắc đạo đức và làm quen với các quy định liên quan.\n\nAI CFS đặt ra tầm nhìn hướng tới tương lai về loại hình công dân mà các xã hội ngày càng được AI định hình yêu cầu. Khung này đề xuất rằng học sinh phải được thử thách và được trao quyền để sử dụng AI một cách có ý nghĩa để tự hiện thực hóa; đánh giá các tác động xã hội, kinh tế và môi trường của AI; và đóng góp, ở mức độ phù hợp với độ tuổi hoặc lớp học của mình, vào việc phát triển các quy định về AI, giúp đị",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa từ và cắt câu cuối; tầm nhìn AI CFS vẫn đọc được một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cfs-vi-2025:p018",
+      "source_offset": 1199,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p018:paragraph:dfe444bae3cf44623718",
+      "chunk_text": "Do đó, khung này nhấn mạnh tầm quan trọng của việc hỗ trợ học sinh trở thành người dùng có trách nhiệm và có đạo đức cũng như là người đóng góp cho AI. Khung này khuyến khích học sinh suy ngẫm về những tranh cãi chính xung quanh AI, tiếp thu các nguyên tắc đạo đức và làm quen với các quy định liên quan.\n\nAI CFS đặt ra tầm nhìn hướng tới tương lai về loại hình công dân mà các xã hội ngày càng được AI định hình yêu cầu. Khung này đề xuất rằng học sinh phải được thử thách và được trao quyền để sử dụng AI một cách có ý nghĩa để tự hiện thực hóa; đánh giá các tác động xã hội, kinh tế và môi trường của AI; và đóng góp, ở mức độ phù hợp với độ tuổi hoặc lớp học của mình, vào việc phát triển các quy định về AI, giúp định hình mối quan hệ của chúng ta với công nghệ trong xã hội nói chung.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Giữ trọn đoạn về học sinh dùng AI có trách nhiệm và góp phần định hình quy định."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cfs-vi-2025:p018",
+      "source_offset": 1199,
+      "chunk_id": "unesco-ai-cfs-vi-2025:p018:paragraph:dfe444bae3cf44623718",
+      "chunk_text": "Do đó, khung này nhấn mạnh tầm quan trọng của việc hỗ trợ học sinh trở thành người dùng có trách nhiệm và có đạo đức cũng như là người đóng góp cho AI. Khung này khuyến khích học sinh suy ngẫm về những tranh cãi chính xung quanh AI, tiếp thu các nguyên tắc đạo đức và làm quen với các quy định liên quan.\n\nAI CFS đặt ra tầm nhìn hướng tới tương lai về loại hình công dân mà các xã hội ngày càng được AI định hình yêu cầu. Khung này đề xuất rằng học sinh phải được thử thách và được trao quyền để sử dụng AI một cách có ý nghĩa để tự hiện thực hóa; đánh giá các tác động xã hội, kinh tế và môi trường của AI; và đóng góp, ở mức độ phù hợp với độ tuổi hoặc lớp học của mình, vào việc phát triển các quy định về AI, giúp định hình mối quan hệ của chúng ta với công nghệ trong xã hội nói chung.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B; ý và chủ thể được giữ trọn."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cft-vi-2025:p014",
+      "source_offset": 1139,
+      "chunk_id": "unesco-ai-cft-vi-2025:p014:fixed:d7b7ea21455b99d0f294",
+      "chunk_text": "ội nói chung. AI có thể đe dọa đến khả năng chủ động của con người, làm gia tăng biến đổi khí hậu, vi phạm quyền riêng tư dữ liệu, làm sâu sắc thêm bất bình đẳng và loại trừ có hệ thống lâu đời, đồng thời dẫn đến các hình thức phân biệt đối xử mới. Trong giáo dục, AI có thể thu hẹp các quy trình giảng dạy và học tập thành các phép tính và nhiệm vụ được tự động hóa theo những cách làm giảm giá trị vai trò và ảnh hưởng của giáo viên và làm suy yếu mối quan hệ của họ với người học.\n\nNó có thể thu h",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa từ và kết giữa câu; phần rủi ro của AI vẫn hiểu được một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cft-vi-2025:p014",
+      "source_offset": 1139,
+      "chunk_id": "unesco-ai-cft-vi-2025:p014:paragraph:0dd52737650229e550ea",
+      "chunk_text": "Tuy nhiên, AI có thể gây ra những rủi ro đáng kể cho học sinh, cộng đồng giảng dạy, hệ thống giáo dục và xã hội nói chung. AI có thể đe dọa đến khả năng chủ động của con người, làm gia tăng biến đổi khí hậu, vi phạm quyền riêng tư dữ liệu, làm sâu sắc thêm bất bình đẳng và loại trừ có hệ thống lâu đời, đồng thời dẫn đến các hình thức phân biệt đối xử mới. Trong giáo dục, AI có thể thu hẹp các quy trình giảng dạy và học tập thành các phép tính và nhiệm vụ được tự động hóa theo những cách làm giảm giá trị vai trò và ảnh hưởng của giáo viên và làm suy yếu mối quan hệ của họ với người học.\n\nNó có thể thu hẹp giáo dục chỉ còn những gì AI có thể xử lý, mô hình hóa và cung cấp.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Đoạn nêu đủ chủ thể, các rủi ro và hệ quả trong giáo dục."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cft-vi-2025:p014",
+      "source_offset": 1139,
+      "chunk_id": "unesco-ai-cft-vi-2025:p014:paragraph:0dd52737650229e550ea",
+      "chunk_text": "Tuy nhiên, AI có thể gây ra những rủi ro đáng kể cho học sinh, cộng đồng giảng dạy, hệ thống giáo dục và xã hội nói chung. AI có thể đe dọa đến khả năng chủ động của con người, làm gia tăng biến đổi khí hậu, vi phạm quyền riêng tư dữ liệu, làm sâu sắc thêm bất bình đẳng và loại trừ có hệ thống lâu đời, đồng thời dẫn đến các hình thức phân biệt đối xử mới. Trong giáo dục, AI có thể thu hẹp các quy trình giảng dạy và học tập thành các phép tính và nhiệm vụ được tự động hóa theo những cách làm giảm giá trị vai trò và ảnh hưởng của giáo viên và làm suy yếu mối quan hệ của họ với người học.\n\nNó có thể thu hẹp giáo dục chỉ còn những gì AI có thể xử lý, mô hình hóa và cung cấp.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B; các rủi ro được trình bày đủ ngữ cảnh."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cft-vi-2025:p015",
+      "source_offset": 1133,
+      "chunk_id": "unesco-ai-cft-vi-2025:p015:fixed:1644c3686b066c542363",
+      "chunk_text": "trao quyền cho họ sử dụng các công cụ công nghệ này trong hoạt động giảng dạy của mình theo cách an toàn, hiệu quả và có đạo đức. Khung này dựa trên phương pháp tiếp cận lấy con người làm trung tâm đối với kiến thức, hiểu biết và kỹ năng cần thiết để làm như vậy. Khung này duy trì rằng trong khi AI mang đến cơ hội hỗ trợ giáo viên trong cả việc giảng dạy cũng như quản lý quá trình học tập, thì các tương tác có ý nghĩa giữa giáo viên và học sinh cũng như sự phát triển của con người vẫn phải là t",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở khi thiếu chủ thể của đại từ và cắt kết luận; vẫn hiểu phần trung tâm."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cft-vi-2025:p015",
+      "source_offset": 1133,
+      "chunk_id": "unesco-ai-cft-vi-2025:p015:paragraph:89cfd7c4a73fb912d2b1",
+      "chunk_text": "Khung năng lực AI cho giáo viên (AI CFT) này nhằm mục đích hỗ trợ phát triển năng lực AI cho giáo viên để trao quyền cho họ sử dụng các công cụ công nghệ này trong hoạt động giảng dạy của mình theo cách an toàn, hiệu quả và có đạo đức. Khung này dựa trên phương pháp tiếp cận lấy con người làm trung tâm đối với kiến thức, hiểu biết và kỹ năng cần thiết để làm như vậy. Khung này duy trì rằng trong khi AI mang đến cơ hội hỗ trợ giáo viên trong cả việc giảng dạy cũng như quản lý quá trình học tập, thì các tương tác có ý nghĩa giữa giáo viên và học sinh cũng như sự phát triển của con người vẫn phải là trọng tâm của trải nghiệm giáo dục.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Nêu rõ AI CFT, mục đích hỗ trợ giáo viên và giữ trọn kết luận lấy con người làm trung tâm."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cft-vi-2025:p015",
+      "source_offset": 1133,
+      "chunk_id": "unesco-ai-cft-vi-2025:p015:paragraph:89cfd7c4a73fb912d2b1",
+      "chunk_text": "Khung năng lực AI cho giáo viên (AI CFT) này nhằm mục đích hỗ trợ phát triển năng lực AI cho giáo viên để trao quyền cho họ sử dụng các công cụ công nghệ này trong hoạt động giảng dạy của mình theo cách an toàn, hiệu quả và có đạo đức. Khung này dựa trên phương pháp tiếp cận lấy con người làm trung tâm đối với kiến thức, hiểu biết và kỹ năng cần thiết để làm như vậy. Khung này duy trì rằng trong khi AI mang đến cơ hội hỗ trợ giáo viên trong cả việc giảng dạy cũng như quản lý quá trình học tập, thì các tương tác có ý nghĩa giữa giáo viên và học sinh cũng như sự phát triển của con người vẫn phải là trọng tâm của trải nghiệm giáo dục.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B; đoạn tự giải thích được."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cft-vi-2025:p016",
+      "source_offset": 1060,
+      "chunk_id": "unesco-ai-cft-vi-2025:p016:fixed:663fa5c2e6fb96588d99",
+      "chunk_text": "ho giáo viên - ICT CFT (ICT competency Framework for Teachers) của UNESCO năm 2018, vẫn có liên quan trong việc hỗ trợ giáo viên phát triển năng lực giảng dạy và học tập chuyên môn của mình bằng CNTT và công nghệ kỹ thuật số.\n\nCấu trúc của AI CFT , như được trình bày trong Chương 3, tuân theo cấu trúc của ICT CFT . Cả hai khung đều được hỗ trợ bằng tầm nhìn nhằm trao quyền cho giáo viên với các năng lực cần thiết để tận dụng công nghệ một cách phù hợp trong giáo dục. Hai khung chia sẻ một kiến t",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa tên ICT CFT và kết giữa câu; quan hệ giữa hai khung chỉ hiểu một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cft-vi-2025:p016",
+      "source_offset": 1060,
+      "chunk_id": "unesco-ai-cft-vi-2025:p016:paragraph:4967196505c0acffb150",
+      "chunk_text": "1.3 Phù hợp với khung năng lực CNTT cho giáo viên AI CFT phù hợp và bổ sung cho Khung năng l ực CNTT cho giáo viên - ICT CFT (ICT competency Framework for Teachers) của UNESCO năm 2018, vẫn có liên quan trong việc hỗ trợ giáo viên phát triển năng lực giảng dạy và học tập chuyên môn của mình bằng CNTT và công nghệ kỹ thuật số.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Có heading và câu hoàn chỉnh giải thích AI CFT bổ sung ICT CFT."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cft-vi-2025:p016",
+      "source_offset": 1060,
+      "chunk_id": "unesco-ai-cft-vi-2025:p016:paragraph:4967196505c0acffb150",
+      "chunk_text": "1.3 Phù hợp với khung năng lực CNTT cho giáo viên AI CFT phù hợp và bổ sung cho Khung năng l ực CNTT cho giáo viên - ICT CFT (ICT competency Framework for Teachers) của UNESCO năm 2018, vẫn có liên quan trong việc hỗ trợ giáo viên phát triển năng lực giảng dạy và học tập chuyên môn của mình bằng CNTT và công nghệ kỹ thuật số.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B; quan hệ giữa hai khung được giữ trọn."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cft-vi-2025:p017",
+      "source_offset": 1177,
+      "chunk_id": "unesco-ai-cft-vi-2025:p017:fixed:cf1e69d2f78f8930e01c",
+      "chunk_text": "ếu của giáo viên. Tiềm năng của AI chiếm đoạt khả năng ra quyết định tự chủ của giáo viên đòi hỏi phải nhấn mạnh hơn vào khả năng chủ động của giáo viên và vào tư duy lấy con người làm trung tâm có thể giúp đảm bảo rằng việc sử dụng AI phục vụ cho sự phát triển năng lực của con người.\n\nViệc khai thác dữ liệu để đào tạo hệ thống AI đe dọa đến quyền riêng tư dữ liệu cá nhân. Các thế hệ công cụ ICT trước đây được thiết kế để truyền hoặc chia sẻ thông tin và có xu hướng giữ lại phản hồi với thao tác",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa từ và cắt ý cuối; luận điểm về quyền tự chủ giáo viên vẫn hiểu một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cft-vi-2025:p017",
+      "source_offset": 1177,
+      "chunk_id": "unesco-ai-cft-vi-2025:p017:paragraph:00214e13169ea08600e2",
+      "chunk_text": "Tiềm năng của AI chiếm đoạt khả năng ra quyết định tự chủ của giáo viên đòi hỏi phải nhấn mạnh hơn vào khả năng chủ động của giáo viên và vào tư duy lấy con người làm trung tâm có thể giúp đảm bảo rằng việc sử dụng AI phục vụ cho sự phát triển năng lực của con người.",
+      "coherence_label_0_to_2": 2,
+      "reason": "Giữ đủ nguyên nhân và kết luận về quyền chủ động của giáo viên."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cft-vi-2025:p017",
+      "source_offset": 1177,
+      "chunk_id": "unesco-ai-cft-vi-2025:p017:paragraph:00214e13169ea08600e2",
+      "chunk_text": "Tiềm năng của AI chiếm đoạt khả năng ra quyết định tự chủ của giáo viên đòi hỏi phải nhấn mạnh hơn vào khả năng chủ động của giáo viên và vào tư duy lấy con người làm trung tâm có thể giúp đảm bảo rằng việc sử dụng AI phục vụ cho sự phát triển năng lực của con người.",
+      "coherence_label_0_to_2": 2,
+      "reason": "C dùng đúng chunk B; ý về quyền chủ động tự đủ ngữ cảnh."
+    },
+    {
+      "strategy": "A",
+      "page_id": "unesco-ai-cft-vi-2025:p018",
+      "source_offset": 805,
+      "chunk_id": "unesco-ai-cft-vi-2025:p018:fixed:ef644638df64e45a6c79",
+      "chunk_text": "ới việc giảng dạy kiến thức thực tế và khái niệm. Do tính mù mờ không rõ ràng của 'hộp đen' đằng sau các phương pháp được sử dụng trong AI, giáo viên cần hiểu cả cách AI được đào tạo và cách AI hoạt động. Họ cũng cần có khả năng kiểm tra có phản biện tính chính xác của đầu ra AI và thiết kế các phương pháp sư phạm phù hợp để hướng dẫn việc sử dụng nội dung được AI tổng hợp trong giảng dạy và học tập.\n\nCác hệ thống AI có khả năng thích ứng với nhiều không gian vấn đề khác nhau. Do đó, chúng cung",
+      "coherence_label_0_to_2": 1,
+      "reason": "Mở giữa từ và kết giữa câu; yêu cầu giáo viên kiểm tra đầu ra AI vẫn hiểu được một phần."
+    },
+    {
+      "strategy": "B",
+      "page_id": "unesco-ai-cft-vi-2025:p018",
+      "source_offset": 805,
+      "chunk_id": "unesco-ai-cft-vi-2025:p018:paragraph:15276c2e0a8adde93192",
+      "chunk_text": "Họ cũng cần có khả năng kiểm tra có phản biện tính chính xác của đầu ra AI và thiết kế các phương pháp sư phạm phù hợp để hướng dẫn việc sử dụng nội dung được AI tổng hợp trong giảng dạy và học tập.",
+      "coherence_label_0_to_2": 1,
+      "reason": "Câu trọn vẹn nhưng mở bằng đại từ 'Họ', thiếu chủ thể giáo viên từ đoạn trước."
+    },
+    {
+      "strategy": "C",
+      "page_id": "unesco-ai-cft-vi-2025:p018",
+      "source_offset": 805,
+      "chunk_id": "unesco-ai-cft-vi-2025:p018:paragraph:15276c2e0a8adde93192",
+      "chunk_text": "Họ cũng cần có khả năng kiểm tra có phản biện tính chính xác của đầu ra AI và thiết kế các phương pháp sư phạm phù hợp để hướng dẫn việc sử dụng nội dung được AI tổng hợp trong giảng dạy và học tập.",
+      "coherence_label_0_to_2": 1,
+      "reason": "C dùng đúng chunk B; đại từ 'Họ' vẫn thiếu chủ thể trong chunk."
+    }
+  ],
+  "test_review": [
+    {
+      "strategy": "A",
+      "question_id": "q09",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cft-vi-2025:p018:fixed:ef644638df64e45a6c79",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 18,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cft-vi-2025:p021:fixed:bb9e088324657a882c5d",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 21,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cft-vi-2025:p046:fixed:a5316cdd502cf878ed2f",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 46,
+          "audience": "teachers",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 0,
+      "reason": "Top-3 nói về cách giáo viên sử dụng AI và hỗ trợ giáo viên, nhưng không nêu rằng chỉ định nghĩa năng lực là chưa đủ cho triển khai quy mô lớn.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": []
+    },
+    {
+      "strategy": "B",
+      "question_id": "q09",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cft-vi-2025:p033:paragraph:7f2607fe50090d3db6a8",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 33,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cft-vi-2025:p042:paragraph:b2029528f5b958407a8b",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 42,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cft-vi-2025:p026:paragraph:71055628d4c5afba19b2",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 26,
+          "audience": "teachers",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 0,
+      "reason": "Top-3 mô tả năng lực và các mức thông thạo; không có luận điểm về tính không đủ của việc chỉ định nghĩa năng lực ở quy mô lớn.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": []
+    },
+    {
+      "strategy": "C",
+      "question_id": "q09",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cft-vi-2025:p033:paragraph:7f2607fe50090d3db6a8",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 33,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cft-vi-2025:p042:paragraph:b2029528f5b958407a8b",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 42,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cft-vi-2025:p026:paragraph:71055628d4c5afba19b2",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 26,
+          "audience": "teachers",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 0,
+      "reason": "C trả cùng top-3 như B cho câu không có filter; thiếu luận điểm cần trả lời.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": []
+    },
+    {
+      "strategy": "A",
+      "question_id": "q10",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:fixed:682429aea51f9f0c4e27",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cft-vi-2025:p016:fixed:663fa5c2e6fb96588d99",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 16,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:fixed:0369393a988b320e3ada",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "Chunk hạng 1 ở trang 70 nêu đủ hai việc UNESCO kêu gọi: khung quốc gia và chương trình đào tạo giáo viên.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        1
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q10",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:08555b4bc8fe9a5ac311",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:ac6ec76b3e473c75acdc",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:e5bf4892cd8eac6fb8f5",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "Chunk hạng 1 ở trang 70 giữ trọn câu kết luận và đủ hai việc UNESCO kêu gọi.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        1
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q10",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:08555b4bc8fe9a5ac311",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:ac6ec76b3e473c75acdc",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cft-vi-2025:p070:paragraph:e5bf4892cd8eac6fb8f5",
+          "document_id": "unesco-ai-cft-vi-2025",
+          "source": "data/corpus/391104eng_Vi-03022025.pdf",
+          "page": 70,
+          "audience": "teachers",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "C trả cùng chunk hạng 1 như B; bằng chứng đủ và truy được trang 70.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        1
+      ]
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p026:fixed:ea9b33d3afd93f945715",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 26,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p026:fixed:73de5fb87209ca9c131a",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 26,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p026:fixed:e5bfcab94db065e5b6f8",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 26,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 1,
+      "reason": "Các chunk trang 26 nói về mức Áp dụng, kiến thức cơ bản và khả năng chuyển giao, nhưng thiếu trọn mô tả mục tiêu chung về cấu trúc kiến thức vững chắc cùng bộ kỹ năng AI.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        2,
+        3
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:3f18e840d31eb4ec68ed",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 26,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p044:paragraph:13c6e46467d36ad3582f",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 44,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:60e56232f6fdef41aaff",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 26,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "Chunk hạng 2 ở trang 44 chứa đủ mục tiêu chung và bộ kỹ năng cần xây dựng.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        2
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:3f18e840d31eb4ec68ed",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 26,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p044:paragraph:13c6e46467d36ad3582f",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 44,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p026:paragraph:60e56232f6fdef41aaff",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 26,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "Filter students vẫn trả chunk trang 44 hạng 2; bằng chứng đầy đủ.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        2
+      ]
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p059:fixed:2550583fa822b9d96097",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 59,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p016:fixed:6c0408fce0119df37212",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 16,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p058:fixed:ad489d65917394a890f1",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 58,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "Chunk hạng 3 ở trang 58 nêu rõ điều kiện chiến lược quốc gia vững chắc và điều chỉnh theo khung chính sách hiện có.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        3
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p058:paragraph:350f31795a1283c67f64",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 58,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 16,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p062:paragraph:f25ab51a1a91345ee7ba",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 62,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "Chunk hạng 1 ở trang 58 giữ trọn điều kiện và kết luận của câu hỏi.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        1
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p058:paragraph:350f31795a1283c67f64",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 58,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 16,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p062:paragraph:f25ab51a1a91345ee7ba",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 62,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 2,
+      "reason": "C trả cùng chunk trang 58 như B cho câu không có filter; bằng chứng đủ.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        1
+      ]
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p016:fixed:6c0408fce0119df37212",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 16,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p074:fixed:6170348fdad3432b8b3a",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 74,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p018:fixed:c6f273127f90ff343ac1",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 18,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 1,
+      "reason": "Chunk trang 18 nói học sinh nên thiết kế AI có ý nghĩa và bền vững, nhưng thiếu kết luận trực tiếp về ngành giáo dục chủ động định hình AI có đạo đức, thân thiện môi trường.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        3
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p074:paragraph:8e5010e82923487fac24",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 74,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p018:paragraph:732da67c075d3c4bf571",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 18,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 16,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 1,
+      "reason": "Chunk trang 18 liên quan đến đóng góp của học sinh cho AI và nguyên tắc đạo đức, nhưng không chứa đầy đủ luận điểm của kết luận ở trang 90.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        2
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p074:paragraph:8e5010e82923487fac24",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 74,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p018:paragraph:732da67c075d3c4bf571",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 18,
+          "audience": "students",
+          "metadata_verified": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "unesco-ai-cfs-vi-2025:p016:paragraph:df8d1fbaaeb1c53cd6b9",
+          "document_id": "unesco-ai-cfs-vi-2025",
+          "source": "data/corpus/391105eng_Vi-10022025.pdf",
+          "page": 16,
+          "audience": "students",
+          "metadata_verified": true
+        }
+      ],
+      "metadata_correct_count_out_of_3": 3,
+      "grounding_label_0_to_2": 1,
+      "reason": "C trả cùng chunk như B cho câu không có filter; thiếu kết luận đầy đủ ở trang 90.",
+      "metadata_reason": "Ba hit c? ??ng t?n PDF, trang v?t l? v? audience; nh?n trang/ti?u ?? ?? xem tr?n b?n PDF hi?n th? v? ?o?n text kh?p b?n PDF ???c x?c minh SHA-256.",
+      "supporting_ranks": [
+        2
+      ]
+    }
+  ],
+  "review_status": "complete",
+  "reviewer": "Codex (AI assistant; ??c v? ch?m t?ng tr??ng h?p tr?c ti?p)",
+  "method": "??c 30 chunk t?i 10 v? tr? ngu?n v? to?n b? top-3 c?a 5 c?u test cho A/B/C; ??i chi?u trang PDF hi?n th?, nhan ??/ch?n trang c?a 16 trang ngu?n duy nh?t trong test, gold v? nguy?n v?n c?c hit; ki?m tra th?m 45 span text b?ng SHA-256 v? pypdf. G?n nh?n 0-2 theo GUIDE.md; kh?ng d?ng similarity score ?? g?n nh?n. ??c th?m c? 20 ??p ?n/evidence tr?n trang PDF g?c v? ghi l? do t?ng c?u ? benchmark_gold_review.",
+  "bias": "M?t ng??i ch?m l? Codex; ?? bi?t gold v? trace, n?n nh?n c? nguy c? thi?n l?ch. Kh?ng tr?nh b?y ??y l? ch?m ??c l?p c?a h?c vi?n.",
+  "metadata_summary": {
+    "A": {
+      "correct": 15,
+      "total": 15
+    },
+    "B": {
+      "correct": 15,
+      "total": 15
+    },
+    "C": {
+      "correct": 15,
+      "total": 15
+    }
+  },
+  "coherence_summary": {
+    "A": 1.0,
+    "B": 1.9,
+    "C": 1.9
+  },
+  "grounding_summary": {
+    "A": {
+      "counts": {
+        "0": 1,
+        "1": 2,
+        "2": 2
+      },
+      "mean": 1.2
+    },
+    "B": {
+      "counts": {
+        "0": 1,
+        "1": 1,
+        "2": 3
+      },
+      "mean": 1.4
+    },
+    "C": {
+      "counts": {
+        "0": 1,
+        "1": 1,
+        "2": 3
+      },
+      "mean": 1.4
+    }
+  },
+  "benchmark_gold_review": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 16,
+      "answer_supported": true,
+      "reason": "Trang 16 n?u tr?c ti?p ph?t tri?n chuy?n m?n li?n t?c theo c?ch l?y con ng??i l?m trung t?m."
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 21,
+      "answer_supported": true,
+      "reason": "Trang 21 ph? ??nh vi?c c?ng c? AI thay th? tr?ch nhi?m gi?i tr?nh c?a gi?o vi?n."
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 23,
+      "answer_supported": true,
+      "reason": "Trang 23 n?u ?? t?nh ph? h?p ?? tu?i v? ti?n ?ch s? ph?m tr??c ?p d?ng quy m? l?n."
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 26,
+      "answer_supported": true,
+      "reason": "Trang 26 n?u 5 kh?a c?nh, 3 m?c v? 15 kh?i trong c?ng c?u."
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 29,
+      "answer_supported": true,
+      "reason": "Trang 29 ??t quy?n con ng??i v? nhu c?u ph?t tri?n c?a con ng??i ? tr?ng t?m."
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 31,
+      "answer_supported": true,
+      "reason": "Trang 31 m? t? n?n t?ng ki?n th?c v? kinh nghi?m c?a gi?o vi?n ? m?c ??o s?u."
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 32,
+      "answer_supported": true,
+      "reason": "Trang 32 li?t k? n?ng l?c ??nh gi?, ch?n v? khai th?c c?ng c? AI hi?u qu?, c? ??o ??c."
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 58,
+      "answer_supported": true,
+      "reason": "Trang 58 n?u quy ??nh ?? b?o ??m c?ng c? tin c?y v? b?o v? gi?o vi?n, ng??i h?c."
+    },
+    {
+      "question_id": "q09",
+      "split": "test",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 62,
+      "answer_supported": true,
+      "reason": "Trang 62 n?u ??nh ngh?a n?ng l?c l? c?n thi?t nh?ng m?t m?nh n? kh?ng ??."
+    },
+    {
+      "question_id": "q10",
+      "split": "test",
+      "source_id": "unesco-ai-cft-vi-2025",
+      "physical_page": 70,
+      "answer_supported": true,
+      "reason": "Trang 70 n?u hai vi?c UNESCO k?u g?i: khung qu?c gia v? ??o t?o gi?o vi?n."
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 16,
+      "answer_supported": true,
+      "reason": "Trang 16 n?u r? c?c h? th?ng gi?o d?c c?ng l?p."
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 17,
+      "answer_supported": true,
+      "reason": "Trang 17 n?u t? duy ph?n bi?n l? k? n?ng c? b?n."
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 23,
+      "answer_supported": true,
+      "reason": "Trang 23 n?u 12 kh?i, 4 kh?a c?nh v? 3 m?c ti?n tri?n."
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 25,
+      "answer_supported": true,
+      "reason": "Trang 25 c? heading M?c 1: Hi?u ngay tr??c c?u n?u m?c ??u ti?n d?nh cho t?t c? h?c sinh; chunk B gi? c? heading."
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 28,
+      "answer_supported": true,
+      "reason": "Trang 28 n?u t? duy l?y con ng??i l?m trung t?m ??t n?n t?ng cho tham gia s?u h?n v?o AI."
+    },
+    {
+      "question_id": "q16",
+      "split": "dev",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 31,
+      "answer_supported": true,
+      "reason": "Trang 31 n?u ?i?u ki?n ??ng ? c? ch? ? v? ???c th?ng b?o cho thao t?c d? li?u."
+    },
+    {
+      "question_id": "q17",
+      "split": "dev",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 36,
+      "answer_supported": true,
+      "reason": "Trang 36 n?u hai ki?u th?c h?nh kh?ng c?m ?i?n v? c?ng ngh? th?p."
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 44,
+      "answer_supported": true,
+      "reason": "Trang 44 n?u tr?c ti?p m?c ti?u ki?n th?c kh?i ni?m v?ng ch?c, chuy?n giao v? b? k? n?ng AI."
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 58,
+      "answer_supported": true,
+      "reason": "Trang 58 n?u ?i?u ki?n c? chi?n l??c qu?c gia v?ng ch?c v? ?i?u ch?nh theo khung ch?nh s?ch hi?n c?."
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "source_id": "unesco-ai-cfs-vi-2025",
+      "physical_page": 90,
+      "answer_supported": true,
+      "reason": "Trang 90 n?u ng?nh gi?o d?c ch? ??ng ??nh h?nh AI c? ??o ??c v? th?n thi?n m?i tr??ng."
+    }
+  ],
+  "human_scoring_procedure": [
+    "Ch?n tr??c 5 trang n?i dung ??u c?a m?i PDF; l?y k? t? gi?a trang ?? c? 10 v? tr? gi?ng nhau cho A/B/C.",
+    "M? trang PDF t??ng ?ng v? ??c chunk ch?a v? tr? ??. Coherence: 0 n?u ? ch?nh b? c?t ho?c thi?u ch? th?; 1 n?u ch? hi?u m?t ph?n; 2 n?u t? ?? ng? c?nh. Ghi l? do t?ng nh?n.",
+    "??c top-3 c?a 5 c?u test ? c? A/B/C. V?i t?ng hit, ki?m tra source, s? trang v?t l? v? audience tr?n nhan ??/ch?n trang PDF; ghi s? hit metadata ?? v? ??ng.",
+    "??i chi?u c?u h?i, ??p ?n v? top-3 v?i trang PDF. Grounding: 0 n?u kh?ng c? b?ng ch?ng; 1 n?u li?n quan nh?ng thi?u ?i?u ki?n/ng? c?nh; 2 n?u ?? tr? l?i v? truy ngu?n. Ghi h?ng hit h? tr? v? l? do.",
+    "Kh?ng d?ng similarity score ?? quy?t ??nh nh?n; ghi gi?i h?n do ng??i ch?m ?? bi?t gold v? trace."
+  ]
+}
