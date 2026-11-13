@@ -1,0 +1,22 @@
+{
+  "reviewer": "Codex (AI-assisted draft; student verification required)",
+  "method": "For each of the five frozen test questions and each strategy, read all three retrieved chunk texts in traces_test.jsonl, compare them with the question, expected answer and PDF source page. Label 0 when evidence for the requested claim is absent, 1 when related but incomplete, and 2 when enough to answer with a traceable source. Retrieval similarity scores were not used to choose the labels.",
+  "possible_bias": "The AI reviewer saw the gold and retrieval outputs. The student should inspect and confirm these labels; they are not represented as an independent human assessment.",
+  "labels": [
+    {"question_id":"q09","strategy":"A","score":0,"supporting_ranks":[],"reason":"Top-3 nói về cách giáo viên sử dụng AI và hỗ trợ giáo viên, nhưng không nêu rằng chỉ định nghĩa năng lực là chưa đủ cho triển khai quy mô lớn."},
+    {"question_id":"q09","strategy":"B","score":0,"supporting_ranks":[],"reason":"Top-3 mô tả năng lực và các mức thông thạo; không có luận điểm về tính không đủ của việc chỉ định nghĩa năng lực ở quy mô lớn."},
+    {"question_id":"q09","strategy":"C","score":0,"supporting_ranks":[],"reason":"C trả cùng top-3 như B cho câu không có filter; thiếu luận điểm cần trả lời."},
+    {"question_id":"q10","strategy":"A","score":2,"supporting_ranks":[1],"reason":"Chunk hạng 1 ở trang 70 nêu đủ hai việc UNESCO kêu gọi: khung quốc gia và chương trình đào tạo giáo viên."},
+    {"question_id":"q10","strategy":"B","score":2,"supporting_ranks":[1],"reason":"Chunk hạng 1 ở trang 70 giữ trọn câu kết luận và đủ hai việc UNESCO kêu gọi."},
+    {"question_id":"q10","strategy":"C","score":2,"supporting_ranks":[1],"reason":"C trả cùng chunk hạng 1 như B; bằng chứng đủ và truy được trang 70."},
+    {"question_id":"q18","strategy":"A","score":1,"supporting_ranks":[2,3],"reason":"Các chunk trang 26 nói về mức Áp dụng, kiến thức cơ bản và khả năng chuyển giao, nhưng thiếu trọn mô tả mục tiêu chung về cấu trúc kiến thức vững chắc cùng bộ kỹ năng AI."},
+    {"question_id":"q18","strategy":"B","score":2,"supporting_ranks":[2],"reason":"Chunk hạng 2 ở trang 44 chứa đủ mục tiêu chung và bộ kỹ năng cần xây dựng."},
+    {"question_id":"q18","strategy":"C","score":2,"supporting_ranks":[2],"reason":"Filter students vẫn trả chunk trang 44 hạng 2; bằng chứng đầy đủ."},
+    {"question_id":"q19","strategy":"A","score":2,"supporting_ranks":[3],"reason":"Chunk hạng 3 ở trang 58 nêu rõ điều kiện chiến lược quốc gia vững chắc và điều chỉnh theo khung chính sách hiện có."},
+    {"question_id":"q19","strategy":"B","score":2,"supporting_ranks":[1],"reason":"Chunk hạng 1 ở trang 58 giữ trọn điều kiện và kết luận của câu hỏi."},
+    {"question_id":"q19","strategy":"C","score":2,"supporting_ranks":[1],"reason":"C trả cùng chunk trang 58 như B cho câu không có filter; bằng chứng đủ."},
+    {"question_id":"q20","strategy":"A","score":1,"supporting_ranks":[3],"reason":"Chunk trang 18 nói học sinh nên thiết kế AI có ý nghĩa và bền vững, nhưng thiếu kết luận trực tiếp về ngành giáo dục chủ động định hình AI có đạo đức, thân thiện môi trường."},
+    {"question_id":"q20","strategy":"B","score":1,"supporting_ranks":[2],"reason":"Chunk trang 18 liên quan đến đóng góp của học sinh cho AI và nguyên tắc đạo đức, nhưng không chứa đầy đủ luận điểm của kết luận ở trang 90."},
+    {"question_id":"q20","strategy":"C","score":1,"supporting_ranks":[2],"reason":"C trả cùng chunk như B cho câu không có filter; thiếu kết luận đầy đủ ở trang 90."}
+  ]
+}

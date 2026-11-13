@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed characters,500,50,document_id/source/page/audience/title/version,none,google/embeddinggemma-2@f9972ac-768d,Fixed windows may split evidence,1/15,2/15,1/5,2/5,794 chunks; exact cosine; GPU bfloat16
+B,paragraph-aware,800,0,document_id/source/page/audience/title/version,none,google/embeddinggemma-2@f9972ac-768d,Paragraph boundaries may preserve evidence,2/15,5/15,2/5,3/5,614 chunks; selected on dev
+C,paragraph-aware,800,0,document_id/source/page/audience/title/version,audience only if supplied,google/embeddinggemma-2@f9972ac-768d,Audience filter may remove off-topic chunks,2/15,5/15,2/5,3/5,Reuses B vectors; all 3 filter questions compliant; no score change on this benchmark

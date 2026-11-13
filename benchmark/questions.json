@@ -1,0 +1,211 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "AI CFT hướng dẫn giáo viên phát triển chuyên môn và học tập liên tục theo cách tiếp cận nào?",
+    "expected_answer": "Theo cách tiếp cận lấy con người làm trung tâm khi áp dụng AI trong giáo dục.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 16,
+    "evidence_quote": "AI CFT được thiết kế để hướng dẫn quá trình phát triển chuyên môn và học tập liên tục, chủ động của giáo viên theo phương pháp tiếp cận lấy con người làm trung tâm để áp dụng AI trong giáo dục."
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Trong khung năng lực AI cho giáo viên, công cụ AI có được thay thế trách nhiệm giải trình hợp pháp của giáo viên không?",
+    "expected_answer": "Không. Giáo viên vẫn phải chịu trách nhiệm giải trình hợp pháp trong giáo dục.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 21,
+    "evidence_quote": "các công cụ AI không được thay thế trách nhiệm giải trình hợp pháp của giáo viên trong giáo dục.",
+    "filter": {
+      "audience": "teachers"
+    }
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Trước khi áp dụng công cụ AI trong giáo dục trên quy mô lớn, cần kiểm tra hai yếu tố nào liên quan đến người học và việc dạy học?",
+    "expected_answer": "Cần kiểm tra tính phù hợp với độ tuổi và tiện ích sư phạm của công cụ.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 23,
+    "evidence_quote": "Tính phù hợp với độ tuổi và tiện ích sư phạm của các công cụ AI cũng nên được xem xét và xác thực trước khi áp dụng trên quy mô lớn."
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Ma trận AI CFT cho giáo viên có bao nhiêu khía cạnh, mức thành thạo và khối năng lực?",
+    "expected_answer": "Năm khía cạnh, ba mức thành thạo và mười lăm khối năng lực.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 26,
+    "evidence_quote": "Khung năng lực AI dành cho giáo viên được trình bày dưới dạng ma trận hai chiều: năm khía cạnh năng lực phát triển qua ba mức thành thạo, tạo thành mười lăm khối như được thể hiện trong Bảng 1."
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Trong khía cạnh tư duy lấy con người làm trung tâm của AI CFT, điều gì phải ở trọng tâm của AI trong giáo dục?",
+    "expected_answer": "Quyền con người và nhu cầu phát triển của con người.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 29,
+    "evidence_quote": "Khía cạnh này khuyến khích giáo viên luôn đặt quyền con người và nhu cầu phát triển của con người làm trọng tâm của AI trong giáo dục."
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Mức 'Đào sâu' của AI CFT nhắm tới giáo viên có nền tảng AI và kinh nghiệm sử dụng AI như thế nào?",
+    "expected_answer": "Giáo viên đã có một số kiến thức về AI và một số kinh nghiệm dùng AI trong giáo dục.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 31,
+    "evidence_quote": "Mức ‘Đào sâu’ (Deepen) nhắm đến những giáo viên đã có một số kiến thức về AI và một số kinh nghiệm sử dụng AI trong giáo dục."
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Mức 'Giành được' trong AI CFT trang bị loại năng lực AI nào cho tất cả giáo viên?",
+    "expected_answer": "Các năng lực AI thiết yếu để đánh giá, lựa chọn và khai thác công cụ AI hiệu quả, có đạo đức.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 32,
+    "evidence_quote": "‘Giành được’ là mức học tập cơ bản và là mức ban đầu của việc sử dụng AI thực tế, bao gồm bộ các năng lực AI thiết yếu mà tất cả giáo viên cần có để đánh giá, lựa chọn và khai thác các công cụ AI một cách hiệu quả và có đạo đức trong quá trình thực hành."
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Vì sao AI CFT nhấn mạnh việc xác thực hệ thống AI trước khi triển khai rộng trong giáo dục?",
+    "expected_answer": "Để bảo đảm công cụ đáng tin cậy và bảo vệ giáo viên cùng người học trước các rủi ro khi dùng AI.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 58,
+    "evidence_quote": "Điều kiện tiên quyết để sử dụng có trách nhiệm AI trong giáo dục là thực thi các quy định nhằm đảm bảo độ tin cậy của các công cụ AI và bảo vệ các giáo viên và người học. Do có nhiều rủi ro liên quan đến việc sử dụng AI, phải có cơ chế để đảm bảo mọi công cụ AI đưa vào môi trường giáo dục đều tin cậy và đáng tin cậy."
+  },
+  {
+    "id": "q09",
+    "split": "test",
+    "type": "ngoai_le",
+    "question": "Chỉ định nghĩa các năng lực AI cần thiết cho giáo viên có đủ để triển khai thực hành dạy học có AI trên quy mô lớn không?",
+    "expected_answer": "Không; việc định nghĩa năng lực là điều kiện cần nhưng riêng nó chưa đủ.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 62,
+    "evidence_quote": "Mặc dù là điều kiện tiên quyết cần thiết, nhưng việc định nghĩa các năng lực AI mà giáo viên yêu cầu, một mình nó, là không đủ để đảm bảo việc áp dụng các thực hành hỗ trợ AI trong giảng dạy và học tập trên quy mô lớn."
+  },
+  {
+    "id": "q10",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Trong kết luận AI CFT, UNESCO kêu gọi các quốc gia thành viên đẩy nhanh việc phát triển khung nào và cung cấp chương trình gì?",
+    "expected_answer": "Phát triển khung năng lực AI quốc gia và cung cấp chương trình đào tạo giáo viên.",
+    "gold_source_id": "unesco-ai-cft-vi-2025",
+    "gold_page": 70,
+    "evidence_quote": "UNESCO kêu gọi các quốc gia thành viên đẩy nhanh quá trình phát triển các khung năng lực AI quốc gia và cung cấp các chương trình đào tạo giáo viên để hỗ trợ việc học tập chuyên môn suốt đời."
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Trong khung năng lực AI cho học sinh, AI CFS hướng dẫn loại hệ thống giáo dục nào xây dựng năng lực AI cho tất cả học sinh và công dân?",
+    "expected_answer": "Các hệ thống giáo dục công lập.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 16,
+    "evidence_quote": "AI CFS hướng đến mục tiêu đóng vai trò là hướng dẫn cho các hệ thống giáo dục công lập nhằm xây dựng các năng lực cần thiết cho tất cả học sinh và công dân",
+    "filter": {
+      "audience": "students"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Theo AI CFS, học sinh cần kỹ năng cơ bản nào để tham gia AI với vai trò người học, người dùng và người sáng tạo?",
+    "expected_answer": "Tư duy phản biện.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 17,
+    "evidence_quote": "Tư duy phản biện là một kỹ năng cơ bản mà học sinh cần có để tham gia có ý nghĩa vào AI với tư cách là người học, người dùng và người sáng tạo."
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Ma trận AI CFS của học sinh gồm bao nhiêu khối năng lực, khía cạnh và mức tiến triển?",
+    "expected_answer": "Mười hai khối năng lực, bốn khía cạnh và ba mức tiến triển.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 23,
+    "evidence_quote": "AI CFS chỉ định 12 khối năng lực dựa trên ma trận hai chiều. Chiều thứ nhất bao gồm 4 khía cạnh liên kết với nhau của năng lực AI, trong khi chiều thứ hai bao gồm 3 mức tiến triển hoặc thông thạo mà học sinh được kỳ vọng sẽ tham gia theo từng bước."
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Mức 1 'Hiểu' trong AI CFS được thiết kế cho nhóm học sinh nào?",
+    "expected_answer": "Cho tất cả học sinh.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 25,
+    "evidence_quote": "Mức đầu tiên này được thiết kế cho tất cả học sinh."
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Trong AI CFS, tư duy lấy con người làm trung tâm tạo nền tảng cho điều gì?",
+    "expected_answer": "Cho sự tham gia sâu hơn của học sinh vào mọi khía cạnh của AI.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 28,
+    "evidence_quote": "Tư duy lấy con người làm trung tâm đặt nền tảng cho sự tham gia sâu hơn vào mọi khía cạnh của AI."
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Theo năng lực sử dụng AI an toàn, khi nào dữ liệu của học sinh mới nên được thu thập, chia sẻ hoặc xóa?",
+    "expected_answer": "Chỉ khi học sinh đã đồng ý một cách có chủ ý và được thông báo đầy đủ.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 31,
+    "evidence_quote": "dữ liệu của mình chỉ được thu thập, sử dụng, chia sẻ, lưu trữ và xóa khi có sự đồng ý có chủ ý và được thông báo của các em."
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Ở mức 1 'Hiểu' của AI CFS, hai dạng tùy chọn thực hành cơ bản được khuyến nghị là gì?",
+    "expected_answer": "Thực hành không cần cắm điện và thực hành với công nghệ thấp.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 36,
+    "evidence_quote": "Các đặc tả kỹ thuật cũng khuyến nghị các thiết lập học tập cơ bản, bao gồm thực hành với các tùy chọn không cần cắm điện và công nghệ thấp."
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Trong khung năng lực AI cho học sinh, mục tiêu chung của mức 2 'Áp dụng' là xây dựng loại kiến thức và kỹ năng AI nào?",
+    "expected_answer": "Một cấu trúc kiến thức khái niệm vững chắc, có thể chuyển giao và các bộ kỹ năng liên quan về AI.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 44,
+    "evidence_quote": "Mục tiêu chung của mức 'Áp dụng' là để học sinh xây dựng một cấu trúc kiến thức khái niệm vững chắc và có thể chuyển giao cùng các bộ kỹ năng liên quan về AI",
+    "filter": {
+      "audience": "students"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Nếu một quốc gia đã có chiến lược AI quốc gia vững chắc, AI CFS có thể được điều chỉnh theo loại khung nào?",
+    "expected_answer": "Theo các khung chính sách hiện có của quốc gia đó.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 58,
+    "evidence_quote": "Ở các quốc gia có chiến lược quốc gia vững chắc, AI CFS có thể được điều chỉnh theo các khung chính sách hiện có"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "ngoai_le",
+    "question": "Theo kết luận AI CFS, ngành giáo dục nên chỉ thích ứng với công cụ AI hay chủ động phát triển năng lực để định hình AI?",
+    "expected_answer": "Cần chủ động phát triển năng lực để định hình AI có đạo đức và thân thiện với môi trường.",
+    "gold_source_id": "unesco-ai-cfs-vi-2025",
+    "gold_page": 90,
+    "evidence_quote": "Giả định đầu tiên là ngành giáo dục, thay vì chỉ thích ứng với các hệ thống và công cụ AI, phải chủ động phát triển các năng lực cần thiết để định hình AI có đạo đức và thân thiện với môi trường."
+  }
+]
